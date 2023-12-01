@@ -1,3 +1,6 @@
+**Step 1:**
+
+clone or download the code
 ```bash
 git clone https://github.com/shcube08/nextjs14-notion.git
 ```
